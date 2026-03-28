@@ -1,0 +1,8 @@
+{
+  "name": "RCK ai",
+  "description": "Advanced cybersecurity suite for detecting AI-generated multimedia and protecting personal identity across the web.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
